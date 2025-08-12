@@ -9,14 +9,14 @@
 
 ## 📂 폴더 구조
 
+```
 coding_test/
 ├── baekjoon/              # 백준 문제 (알고리즘별 분류)
 │   ├── implementation/    # 구현 문제
-│   ├── brute-implementation/ # 브루트포스 + 구현 문제
 │   ├── math/              # 수학 관련 문제
 │   └── …
 └── programmers/           # 프로그래머스 문제 (레벨별 분류 예정)
-
+```
 ---
 
 ## 📝 파일명 규칙
