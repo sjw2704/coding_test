@@ -1,7 +1,7 @@
 // BOJ 1316 그룹단어체커 — implementation, string
 // link: https://www.acmicpc.net/problem/1316
 // idea: 연속되는 문자는 하나의 문자로 처리, 이전에 들어온 문자가 다시 반복되면 제외
-// time/space: O(L) / O(N^2)
+// time/space: O(L) / O(1)
 // edge: 
 // 개선사항 : 변수명 일관되게 네이밍할 것,이중 루프를 최대한 피할 것, 데이터 특성에 맞는 타입 설정할 것
 
